@@ -1,0 +1,9 @@
+E:\project\P507\WinformSql\WinformSql\bin\Debug\WinformSql.exe.config
+E:\project\P507\WinformSql\WinformSql\bin\Debug\WinformSql.exe
+E:\project\P507\WinformSql\WinformSql\bin\Debug\WinformSql.pdb
+E:\project\P507\WinformSql\WinformSql\obj\Debug\WinformSql.csprojAssemblyReference.cache
+E:\project\P507\WinformSql\WinformSql\obj\Debug\WinformSql.Form1.resources
+E:\project\P507\WinformSql\WinformSql\obj\Debug\WinformSql.Properties.Resources.resources
+E:\project\P507\WinformSql\WinformSql\obj\Debug\WinformSql.csproj.GenerateResource.cache
+E:\project\P507\WinformSql\WinformSql\obj\Debug\WinformSql.exe
+E:\project\P507\WinformSql\WinformSql\obj\Debug\WinformSql.pdb
